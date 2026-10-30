@@ -12,7 +12,7 @@ btn_text.addEventListener("click", (e)=>{
     }
 
     else {
-    text.style.display = "none";
+    text.style.display = "block";
     e.target.textContent = "Nascondi testo";
 
     }
