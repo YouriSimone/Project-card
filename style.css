@@ -14,10 +14,15 @@ div {
     margin-top: 40px;
 }
 
+h1 {
+    color: brown;
+    padding: 5px;
+}
+
 button {
     padding: 5px;
     color: white;
-    background-color: yellow;
+    background-color:black;
 }
 
 button:hover {
