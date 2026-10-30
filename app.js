@@ -9,6 +9,7 @@ btn_text.addEventListener("click", (e)=>{
     if(counter %2 !== 0){
     text.style.display = "none";
     e.target.textContent = "Mostra testo";
+    
     }
 
     else {
