@@ -1,6 +1,6 @@
 # Git & GitHub: strumenti di collaborazione
 
-## Pagina web di esempio per esercitarsi con Git e GitHub. Mostra un titolo, un paragrafo e un pulsante che nasconde o mostra il testo.
+Pagina web di esempio per esercitarsi con Git e GitHub. Mostra un titolo, un paragrafo e un pulsante che nasconde o mostra il testo.
 
 File
 index.html: struttura della pagina
@@ -15,3 +15,7 @@ HTML, CSS e JavaScript.
 
 ## Licenza
 Youri Simone
+
+## Note
+Questo repository è stato creato durante un'esercitazione pratica
+su Git e GitHub.
